@@ -4,7 +4,7 @@
 
 ```yaml
 formId: customer_form
-version: 1.0.0
+version: 1.0.1
 
 fields:
   - id: company_name
@@ -17,7 +17,7 @@ fields:
     maxLength: 50
 
   - id: biz_number
-    label: 사업자 등록번호
+    label: 법인등록번호
     type: text
     required:
       create: true
