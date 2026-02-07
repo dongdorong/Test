@@ -16,11 +16,12 @@
     {
       "id": "email",
       "label": "담당자 이메일",
-      "type": "email",
+      "type": "text",
       "required": {
-        "create": false,
+        "create": true,
         "edit": false
       },
+      "placeholder": "이메일을 입력해주세요",
       "validation": "email"
     }
   ]
