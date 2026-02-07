@@ -1,1 +1,12 @@
+{
+  "name": "form-system",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "gen": "node scripts/generate-json.mjs"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
 
