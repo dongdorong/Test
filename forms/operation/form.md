@@ -4,7 +4,7 @@
 
 ```yaml
 formId: customer_form
-version: 1.0.1
+version: 1.0.2
 
 fields:
   - id: company_name
